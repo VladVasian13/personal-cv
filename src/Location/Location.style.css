@@ -1,0 +1,14 @@
+.location-text {
+    font-size: 40px;
+}
+
+.flag {
+    height: 60px;
+    width: 60px;
+}
+
+.flex-centered {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}

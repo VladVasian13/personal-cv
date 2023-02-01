@@ -1,0 +1,10 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto&family=Urbanist&display=swap");
+
+*,
+*::before,
+*::after {
+  font-family: "Urbanist", sans-serif;
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
